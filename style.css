@@ -103,3 +103,6 @@ input:placeholder-shown {
   color: purple;
   font-style: italic;
 }
+button:hover{
+    color: blue;
+}
